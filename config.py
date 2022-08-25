@@ -8,7 +8,7 @@ USUARIO = 'icdearmas'
 PASSWORD = 'Luis02**'
 USUARIO_ID = 13964
 ZIP_MB = 399
-MOODLE_URL = 'moodle.uclv.cu'
+MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [5416296262]
 
 # CUENTA DE MEGA
